@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "BedtimeBook",
+    "slug": "bedtime-book",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "bedtimebook",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.peakermap.bedtimebook",
+      "buildNumber": "1",
+      "infoPlist": {
+        "CFBundleDisplayName": "Bedtime Book",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F3EBD8",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+# Progress - Bedtime Book
+
+## 2026-10-03
+
+- Rejection scan for this run already printed NO_REJECTION. Three Planks stays Waiting for Review.
+- Chose Bedtime Book. Competing bedtime apps are lamp timers and story subscriptions. This app is a pretend lamp that must stay on while the book is open.
+- Wrote the Expo app, listing text, and a 1024 RGB icon. Logic checks printed LOGIC_OK. Privacy gist `9d5ae08d0a90d129aa0bb87fe4be0bf3`. Support gist `db1ea446308d1dc98342dd02c9e23aee`.

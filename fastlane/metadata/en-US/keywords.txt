@@ -1,0 +1,1 @@
+book,lamp,kids,family,seniors,offline,read,bed
